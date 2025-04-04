@@ -23,6 +23,7 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-E94E1B?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-%23667AB6.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-7C1C6F?style=for-the-badge&logo=oauth&logoColor=white)
 
@@ -33,6 +34,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Aos](https://img.shields.io/badge/AOS-%23FF5733.svg?style=for-the-badge&logo=animate&logoColor=white)
 ![swr](https://img.shields.io/badge/swr-%23FFFFFF.svg?style=for-the-badge&logo=swr&logoColor=blue)
 ![Zustand](https://img.shields.io/badge/Zustand-%23FFDD57.svg?style=for-the-badge&logo=zustand&logoColor=black)
@@ -42,6 +44,10 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-%232C8EBB.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5851DB?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
