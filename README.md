@@ -24,6 +24,8 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-%23667AB6.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-7C1C6F?style=for-the-badge&logo=oauth&logoColor=white)
+
 
 
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
