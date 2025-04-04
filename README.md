@@ -17,9 +17,10 @@
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-E94E1B?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-%23667AB6.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -41,11 +42,18 @@
 ![PNPM](https://img.shields.io/badge/PNPM-%232C8EBB.svg?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+![Stripe](https://img.shields.io/badge/Stripe-008C9E?style=for-the-badge&logo=stripe&logoColor=white)
+![DPD](https://img.shields.io/badge/DPD-FF3D00?style=for-the-badge&logo=dpd&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-FF5F00?style=for-the-badge&logo=gemini&logoColor=white)
+![HLS](https://img.shields.io/badge/HLS-FF0000?style=for-the-badge&logo=apple&logoColor=white) <!-- using Apple logo as a placeholder -->
 
 
 
