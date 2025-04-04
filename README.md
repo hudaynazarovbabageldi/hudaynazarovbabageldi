@@ -55,7 +55,6 @@
 ![Stripe](https://img.shields.io/badge/Stripe-008C9E?style=for-the-badge&logo=stripe&logoColor=white)
 ![DPD](https://img.shields.io/badge/DPD-FF3D00?style=for-the-badge&logo=dpd&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-FF5F00?style=for-the-badge&logo=gemini&logoColor=white)
-![HLS]
 
 
 
