@@ -54,11 +54,13 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%2300FF9D.svg?style=for-the-badge&logo=gsap&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Aos](https://img.shields.io/badge/AOS-%23FF5733.svg?style=for-the-badge&logo=animate&logoColor=white)
 ![swr](https://img.shields.io/badge/swr-%23FFFFFF.svg?style=for-the-badge&logo=swr&logoColor=blue)
 ![Zustand](https://img.shields.io/badge/Zustand-%23FFDD57.svg?style=for-the-badge&logo=zustand&logoColor=black)
 ![shadcn/ui](https://img.shields.io/badge/shadcn-ui-%23000000.svg?style=for-the-badge&logo=shadcn&logoColor=white)
+
 
 ---
 
