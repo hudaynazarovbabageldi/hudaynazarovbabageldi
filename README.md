@@ -39,6 +39,7 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-%23667AB6.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-%23F4C430.svg?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
