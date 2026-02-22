@@ -43,9 +43,12 @@
 
 ---
 
+
 ### Messaging & Streaming
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-%231288C6.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-%23EF4444.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
