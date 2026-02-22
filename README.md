@@ -50,6 +50,16 @@
 ![BullMQ](https://img.shields.io/badge/BullMQ-%23EF4444.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+
+---
+
+---
+
+### Search Engines
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23039BE5.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Meilisearch](https://img.shields.io/badge/Meilisearch-%23FFCD00.svg?style=for-the-badge&logo=meilisearch&logoColor=black)
+
+
 ---
 
 ### UI / Styling
