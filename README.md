@@ -126,7 +126,8 @@
 ### Automation, Trading & AI
 ![Telegram Bots (grammY)](https://img.shields.io/badge/Telegram%20Bots-grammY-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Crypto Trading (CCXT)](https://img.shields.io/badge/Crypto%20Trading-CCXT-1E1E1E?style=for-the-badge&logo=bitcoin&logoColor=white)
-![AI Integration (OpenAI API)](https://img.shields.io/badge/AI%20Integration-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
